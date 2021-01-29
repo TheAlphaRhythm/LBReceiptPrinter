@@ -2,7 +2,10 @@
 Thermal Printer plugin for Lioranboard by DJ_TEO
 https://twitch.tv/dj_teo
 
-FAQ:
+__FAQ:__
+How do I download this program?
+Check out this link: https://github.com/TheAlphaRhythm/LBReceiptPrinter/releases
+
 Who is DJ_TEO?
 I am a guy who programs things and makes cool stuff on stream.
 
