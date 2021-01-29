@@ -23,6 +23,7 @@ https://discord.gg/CDqGAuUTe6
 
 
 ****** SUPPORTED PRINTERS *******
+
 Any printer with ESC/POS support SHOULD work. No guarantees or support offered on this program - it was created for me and nutty, and you can use it for free.
 I can provide customization of the template files for a cost.
 
