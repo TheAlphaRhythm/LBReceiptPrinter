@@ -13,7 +13,7 @@ What other software do I need?
 You need Lioranboard
 
 How do I use this?
-Click the "install_print.exe" file and follow the instructions.
+Run the "install_print.exe" file as an administrator and follow the instructions.
 
 Why did you make this?
 nutty asked for it, so I made it.
